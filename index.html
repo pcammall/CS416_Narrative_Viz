@@ -1,14 +1,266 @@
+<!-- Code from d3-graph-gallery.com -->
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>D3 scatterplot</title>
-<link rel="stylesheet" type="text/css" href="./inspector.css">
-<body>
-<script type="module">
 
-import define from "./index.js";
-import {Runtime, Library, Inspector} from "./runtime.js";
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
 
-const runtime = new Runtime();
-const main = runtime.module(define, Inspector.into(document.body));
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 50, bottom: 30, left: 50},
+    width = 1100 - margin.left - margin.right,
+    height = 1000 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+//Read the data
+d3.csv(
+  "https://raw.githubusercontent.com/pcammall/CS416/952a35ff6fb577acbc38c89e076a690a1791216f/narrative_viz/car_sales_ford.csv"
+, function(data) {
+
+	// Add X axis
+	//hardcoded because it was getting weird when i used the data
+	var x = d3.scaleLinear()
+		.domain([0, 999999])
+		.nice()
+		.range([ 0, width ]);
+	var xAxis = d3.axisBottom(x);
+
+	// Add Y axis
+	
+	var y = d3.scaleLinear()
+		.domain([0, 250000])
+		.nice()
+		.range([ height, 0]);
+	var yAxis = d3.axisLeft(y);
+
+	// Color scale: give me a color name, I return a color
+	var color = d3.scaleOrdinal(d3.schemeCategory10)
+		.domain(['Convertible','Coupe','Hatchback','Minivan','Sedan','SUV','Truck','Van'])
+
+
+	//filter for months
+	var all_months = [
+						["Dec-2014", 12],
+						["Jan-2015", 1],
+						["Feb-2015", 2],
+						["Mar-2015", 3]
+					];
+	
+	d3.select("#selectButton")
+		.selectAll("myOptions")
+		.data(all_months)
+		.enter()
+			.append('option')
+			.text(function(d) {return d;})
+			.attr("value", function(d) {return d.at(1);})
+
+
+
+
+
+  // Highlight the body style that is hovered
+  var highlight = function(d){
+
+    selected_body = d.body
+
+    d3.selectAll(".dot")
+      .transition()
+      .duration(200)
+      .style("fill", "lightgrey")
+      .attr("r", 3)
+
+    d3.selectAll("." + selected_body)
+      .transition()
+      .duration(200)
+      .style("fill", color(selected_body))
+      .attr("r", 7)
+  }
+
+  // Highlight the specie that is hovered
+  var doNotHighlight = function(){
+    d3.selectAll(".dot")
+      .transition()
+      .duration(200)
+      .style("fill", "lightgrey")
+      .attr("r", 5 )
+  }
+
+	//adding tooltips
+	var tooltip = d3.select("#my_dataviz")
+	.append("div")
+	.style("opacity", 0)
+	.attr("class", "tooltip")
+	.style("background-color", "white")
+	.style("border", "solid")
+	.style("border-width", "1px")
+	.style("border-radius", "5px")
+	.style("padding", "10px")
+	
+	var mouseover = function(d) {
+		tooltip.style("opacity", 1)
+	}
+	
+	var mousemove = function(d) {
+		tooltip.html("Body: " + d.body)
+		.style("left", (d3.mouse(this)[0]+90 + "px"))
+		.style("top", (d3.mouse(this)[1] + "px"))
+	}
+	
+	var mouseleave = function(d) {
+		tooltip.transition()
+		.duration(200)
+		.style("opacity", 0)
+	}
+	
+	
+	//functionality for zooming
+	//https://d3-graph-gallery.com/graph/interactivity_brush.html
+	var brush = d3.brush()
+		.extent( [[0,0], [width, height]])
+		.on("end", brushEnded),
+		
+		idleTimeout,
+		idleDelay = 350;
+	
+	var clip = svg.append("defs").append("svg:clipPath")
+		.attr("id", "clip")
+		.append("svg:rect")
+		.attr("width", width)
+		.attr("height", height)
+		.attr("x", 0)
+		.attr("y", 0);
+					
+	var xExtent = d3.extent(data, function(d) {return d.odometer;});
+	var yExtent = d3.extent(data, function(d) {return d.sellingprice;});
+	//dont put these otherwise everything ends up in lines on the 100
+	//x.domain(d3.extent(data, function(d) {return d.odometer;})).nice();
+	//y.domain(d3.extent(data, function(d) {return d.sellingprice;})).nice();
+		
+	var scatter = svg.append('g')
+		.attr("id", "scatterplot")
+		.attr("clip-path", "url(#clip)");
+		
+	scatter.selectAll(".dot")
+		.data(data)
+		.enter()
+		.append("circle")
+      .attr("class", function (d) { return "dot " + d.body } )
+      .attr("cx", function (d) { return x(d.odometer); } )
+      .attr("cy", function (d) { return y(d.sellingprice); } )
+      .attr("r", 3)
+      .style("fill", function (d) { return color(d.body) } )
+	  .style("opacity", .3)
+    .on("mouseover", highlight)
+    .on("mouseleave", doNotHighlight )
+	.on("mouseover", mouseover)
+	.on("mousemove", mousemove)
+	.on("mouseleave", mouseleave)
+	
+	
+	//modifying x axis
+	svg.append("g")
+		.attr("class", "x axis")
+		.attr("id", "axis--x")
+		.attr("transform", "translate(0,"+height+")")
+		.call(xAxis);
+		
+	svg.append("text")
+		.style("text-anchor", "end")
+		.attr("x", width)
+		.attr("y", height - 8)
+		.text("Odometer");
+
+	//modify y axis
+	svg.append("g")
+		.attr("class", "y axis")
+		.attr("id", "axis--y")
+		.call(yAxis);
+		
+	svg.append("text")
+		.attr("transform", "rotate(-90)")
+		.attr("y", 6)
+		.attr("dy", "1em")
+		.style("text-anchor", "end")
+		.text("Selling Price");
+		
+	scatter.append("g")
+		.attr("class", "brush")
+		.call(brush);
+		
+		
+	function brushEnded() {
+		var s = d3.event.selection;
+		if (!s) {
+			if (!idleTimeout) return idleTimeout = setTimeout(idled, idleDelay);
+			
+			//reuse the values when i set the axis above
+			//try not to cry because I can't figure out why I can't use the values from the data
+			x.domain([0, 999999]).nice();
+			y.domain([0, 250000]).nice();
+			
+		} else {
+			x.domain([s[0][0], s[1][0]].map(x.invert, x));
+			y.domain([s[1][1], s[0][1]].map(y.invert, y));
+			scatter.select(".brush").call(brush.move, null);
+		}
+		zoom();
+	} //end brushEnded
+
+	function idled() {
+		idleTimeout = null;
+	}
+	
+	function zoom() {
+		var t = scatter.transition().duration(750);
+		svg.select("#axis--x").transition(t).call(xAxis);
+		svg.select("#axis--y").transition(t).call(yAxis);
+		scatter.selectAll("circle").transition(t)
+			.attr("cx", function(d) { return x(d.odometer); })
+			.attr("cy", function(d) { return y(d.sellingprice);});
+			
+	}
+
+	function update(selectedGroup) {
+		var datafilter = data.filter(function(d) {return d.sale_month == selectedGroup})
+		
+		scatter.selectAll(".dot")
+		.data(datafilter)
+		.enter()
+		.append("circle")
+      .attr("class", function (d) { return "dot " + d.body } )
+      .attr("cx", function (d) { return x(d.odometer); } )
+      .attr("cy", function (d) { return y(d.sellingprice); } )
+      .attr("r", 3)
+      .style("fill", function (d) { return color(d.body) } )
+	  .style("opacity", .3)
+    .on("mouseover", highlight)
+    .on("mouseleave", doNotHighlight )
+	.on("mouseover", mouseover)
+	.on("mousemove", mousemove)
+	.on("mouseleave", mouseleave)
+	
+	}//end update
+	
+	d3.select("#selectButton").on("change", function(d) {
+		var selectedOption = d3.select(this).property("value")
+		update(selectedOption)
+		}
+	)
+			
+
+})//end csv
 
 </script>
+
