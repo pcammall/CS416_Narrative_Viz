@@ -1,0 +1,528 @@
+year,make,model,trim,body,transmission,vin,state,condition,odometer,color,interior,seller,mmr,sellingprice,saledate,sale_date,sale_month
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en2a5166870,ca,19,99133,white,brown,tycon enterprises,8975,8600,Tue Jan 06 2015 12:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5205838,ca,41,66269,red,black,dtg operations inc,12550,12800,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em4e5292368,ca,35,11407,red,gray,midway hfc fleet/ars,18750,18000,Thu Jan 08 2015 12:00:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5292369,ca,44,12241,red,black,midway hfc fleet/ars,18950,17600,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5279547,ca,38,20634,gray,black,ford motor credit company,20600,19000,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44694f184374,ca,21,108549,red,tan,point loma pre owned inc,3225,2100,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+1997,FORD,MUSTANG SVT COBRA,Base,Convertible,manual,1falp46v6vf149039,ca,33,102865,red,black,mechanics bank,5750,900,Wed Jan 14 2015 07:00:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5214131,ca,43,54967,gray,black,dtg operations inc,12350,11100,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5272240,ca,23,64861,red,black,dtg operations inc,12250,9200,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2010,FORD,MUSTANG,V6,Convertible,,1zvbp8en5a5181427,pa,27,69597,black,black,fiserv/citizens auto finance,9625,9400,Fri Jan 09 2015 09:00:00 GMT-0800 (PST),2015-01-09,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5314326,mo,5,6512,blue,black,ford motor credit company,20200,19200,Tue Jan 27 2015 05:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff4e5300436,fl,43,20192,white,black,budget rac of atlanta,25000,25400,Thu Jan 15 2015 09:00:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5238405,nv,35,36756,silver,black,ez rent a car/orlando,16100,14500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ffxe5263666,mo,35,28013,red,black,kc landsmen ars,24200,23700,Tue Jan 20 2015 03:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,GT Premium,Convertible,manual,1zvbp8ff0e5293081,nv,42,19812,red,black,budget rent a car/salt lake city,27400,26750,Fri Jan 09 2015 00:00:00 GMT-0800 (PST),2015-01-09,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5238376,nv,29,35196,silver,black,ez rent a car/orlando,16300,14500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5238403,nv,25,37890,white,black,ez rent a car/orlando,15700,12700,Fri Jan 09 2015 12:00:00 GMT-0800 (PST),2015-01-09,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5205866,ca,28,63135,gray,black,dtg operations inc,13050,12800,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5219996,il,43,71322,gray,black,dtg operations inc,11950,14001,Thu Jan 15 2015 10:30:00 GMT-0800 (PST),2015-01-15,1
+2006,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvht85h265183112,nv,19,64020,black,black,stones town & country motor,10100,8500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2003,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44483f336643,fl,19,108011,white,—,grieco nissan,3000,1000,Thu Jan 15 2015 01:30:00 GMT-0800 (PST),2015-01-15,1
+2001,FORD,MUSTANG,GT Premium,Convertible,manual,1fafp45x81f145181,tx,2,1,white,tan,axcess financial,4825,3000,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+1998,FORD,MUSTANG,Base,Convertible,,1fafp4447wf142772,fl,19,100514,white,tan,courtesy kia of brandon,1375,900,Thu Jan 08 2015 16:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5219704,ca,33,68574,red,black,dtg operations inc,11900,11500,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5237103,nv,36,20740,black,black,enterprise veh exchange/rental,14350,15100,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8c5227746,mi,47,27472,red,black,ford motor credit company llc,13850,17500,Thu Jan 08 2015 09:00:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff3e5314411,qc,44,12429,blue,black,ford motor company of canada,35500,28000,Tue Jan 06 2015 02:00:00 GMT-0800 (PST),2015-01-06,1
+2010,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8fh3a5148550,pa,38,39291,black,black,sports car leasing,18700,17100,Fri Jan 09 2015 09:00:00 GMT-0800 (PST),2015-01-09,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n675359448,hi,19,86110,black,gray,fiserv,7575,3200,Wed Jan 14 2015 06:30:00 GMT-0800 (PST),2015-01-14,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,manual,1fafp45x64f120672,ma,28,105070,red,tan,boch new to you superstore,4825,5000,Tue Jan 06 2015 02:00:00 GMT-0800 (PST),2015-01-06,1
+2003,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a13y107824,ga,37,83907,white,black,ford-lincoln dealer program,10500,14500,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2002,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a22y123805,mo,49,47048,red,red,primeritus remarketing/fast line auto sales inc,13900,14000,Tue Jan 13 2015 11:00:00 GMT-0800 (PST),2015-01-13,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5205839,ca,21,61377,red,black,dtg operations inc,13100,11500,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5323102,fl,5,8886,—,gray,avis budget group,18800,21600,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5322826,fl,43,12433,—,gray,avis budget group,19250,20400,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5323051,fl,46,17804,—,gray,avis budget group,17850,21400,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5220026,ca,5,66120,red,black,dtg operations inc,12550,12600,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5323099,fl,48,14533,—,tan,avis budget group,18200,20900,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5213359,az,43,63773,red,black,dtg operations inc,12850,12600,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff1e5311832,ga,46,19190,white,black,easy car leasing llc dba brac of birmingham,25200,25500,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em2e5322757,tx,42,14842,red,black,avis budget group,18950,18500,Wed Jan 21 2015 01:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5213349,ca,41,61815,red,black,dtg operations inc,13050,12800,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5322743,ga,34,13475,silver,gray,avis budget group,21600,20100,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5322791,tx,41,18803,gray,black,avis budget group,18500,18000,Wed Jan 21 2015 01:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5323161,fl,49,12686,—,gray,avis budget group,21800,23200,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5311001,fl,44,23645,—,black,ford motor credit company,20300,21000,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5322860,fl,49,18814,white,gray,avis budget group,17750,21300,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,GT Premium,Convertible,manual,1zvbp8ff2e5245906,fl,48,4563,—,black,ford motor credit company,28800,30500,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff0e5307139,tx,47,17120,—,black,budget rent a car/omaha,25600,24600,Thu Jan 29 2015 03:00:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5323024,fl,5,12539,—,black,avis budget group,21800,22900,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5224824,ca,39,36723,silver,black,fleet link services inc,18100,16200,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,GT Premium,Convertible,manual,1zvbp8ffxe5245913,fl,49,3940,white,black,ford motor credit company,29200,34300,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5328395,ca,1,13303,white,—,enterprise vehicle exchange / tra / rental / tulsa,18750,12100,Wed Jan 14 2015 07:05:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5240415,fl,28,30912,—,black,avis budget group,16400,18000,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5208546,az,43,62569,gray,black,dtg operations inc,12950,13300,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5256454,fl,43,14702,—,black,ford motor credit company llc pd,14750,17200,Thu Jan 08 2015 01:00:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,,1zvbp8em6d5233630,ca,28,63193,blue,beige,the hertz corporation,11350,11000,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8c5276476,fl,27,64250,silver,black,kly international llc,10200,11700,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9c5252218,ga,46,21698,black,black,ford motor credit company llc pd,16350,17300,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em1e5208152,az,2,40727,silver,beige,enterprise vehicle exchange / tra / rental / tulsa,18100,13100,Wed Jan 07 2015 11:00:00 GMT-0800 (PST),2015-01-07,1
+2003,FORD,MUSTANG,Premium,Convertible,manual,1fafp44413f357687,fl,2,89833,black,gray,al hendrickson toyota,3400,1400,Wed Jan 07 2015 15:00:00 GMT-0800 (PST),2015-01-07,1
+2002,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a82y111402,nv,35,85454,white,black,autofinders inc,9975,9400,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff0e5300479,tn,37,21374,white,gray,easy car leasing llc dba brac of birmingham,25000,16200,Tue Jan 20 2015 16:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em9e5311965,qc,49,15208,red,black,ford motor company of canada,23400,24000,Tue Jan 06 2015 02:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5217786,ca,44,63510,red,black,dtg operations inc,13050,12700,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5227199,nv,34,60125,gray,black,dtg operations inc,13400,12700,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5205837,nv,33,59661,red,black,dtg operations inc,13300,12900,Fri Jan 09 2015 12:00:00 GMT-0800 (PST),2015-01-09,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5208542,ca,26,65036,gray,black,dtg operations inc,12450,12900,Thu Jan 08 2015 03:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em6e5311969,qc,5,10351,black,black,ford motor company of canada,23400,23500,Tue Jan 06 2015 02:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5205835,ca,42,62005,black,black,dtg operations inc,13200,13000,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5222015,fl,35,62082,blue,black,dtg operations inc,11550,13400,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5237353,fl,36,65372,blue,black,dtg operations inc,11300,13300,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5236611,fl,32,60646,gray,black,the hertz corporation,11650,13400,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2010,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8fh2a5156123,fl,37,89402,blue,black,autonation ford bradenton,14850,14800,Tue Jan 06 2015 01:15:00 GMT-0800 (PST),2015-01-06,1
+2005,FORD,MUSTANG,GT Premium,Convertible,manual,1zvft85h555223429,nc,37,135095,black,gray,crossroads ford inc,5275,8000,Mon Jan 05 2015 01:00:00 GMT-0800 (PST),2015-01-05,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5323217,tn,46,11928,red,gray,avis budget group,19350,19200,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5292602,ga,41,9388,gray,black,kern automotive group inc,22200,21000,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5220299,tn,45,32811,red,beige,ford motor credit company,18550,18800,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n265187191,in,1,111575,blue,gray,chrysler capital,5875,1900,Thu Jan 08 2015 12:30:00 GMT-0800 (PST),2015-01-08,1
+2006,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvht85h865207008,ca,26,88358,black,black,wells fargo dealer services,8400,7200,Thu Jan 08 2015 12:00:00 GMT-0800 (PST),2015-01-08,1
+2005,FORD,MUSTANG,GT Deluxe,Convertible,automatic,1zvht85h355179746,pa,26,28025,gold,black,bmw of annapolis/mini of annapolis,11400,15200,Fri Jan 23 2015 01:00:00 GMT-0800 (PST),2015-01-23,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n455216253,pa,2,58597,silver,gray,dodge of paramus inc,6275,6200,Fri Jan 02 2015 09:00:00 GMT-0800 (PST),2015-01-02,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44634f235514,wi,23,76815,gray,gray,braeger chevrolet,3350,4250,Wed Jan 14 2015 02:00:00 GMT-0800 (PST),2015-01-14,1
+1998,FORD,MUSTANG,GT,Convertible,manual,1fafp45x4wf165841,nc,24,117400,blue,gray,united auto credit/irvine,2075,2100,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5213347,ca,43,65336,red,black,dtg operations inc,12500,13100,Tue Jan 06 2015 12:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5213343,ca,36,62352,black,black,dtg operations inc,12800,13000,Tue Jan 06 2015 12:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5285644,mo,48,17283,red,black,ford motor credit company,17650,18000,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5238527,mo,44,35078,white,tan,ford motor credit company,18500,18600,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ffxe5307147,tx,48,25548,—,black,budget of omaha/ars,24400,25900,Thu Jan 22 2015 02:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5322769,tx,48,8892,—,black,avis budget group,18800,19300,Wed Jan 07 2015 11:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5236340,mo,35,30712,silver,black,ford motor credit company,17150,17600,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5322774,mo,46,13200,black,gray,avis budget group,18100,18300,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5323136,mo,43,18173,silver,black,avis budget group,20900,20500,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5292430,mo,5,18505,white,tan,ford motor credit company,17500,18300,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5236338,mo,45,34656,silver,black,ford motor credit company,18100,18000,Wed Jan 14 2015 02:00:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5322792,mo,38,12883,gray,black,avis budget group,19350,18600,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5322752,mo,46,14213,red,gray,avis budget group,18000,18300,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84nx75298640,ca,29,88691,black,black,hertz remarketing,7450,7000,Thu Jan 08 2015 12:00:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5227177,ca,4,62941,red,black,dtg operations inc,13100,12800,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5231730,ca,41,62084,red,black,the hertz corporation,18050,14000,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5208531,ca,37,63541,silver,black,dtg operations inc,13050,12900,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5215735,ca,44,61493,blue,black,dtg operations inc,13100,12900,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5213373,ca,36,64378,gray,black,dtg operations inc,12950,12700,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5205851,ca,38,63054,red,black,dtg operations inc,13100,12700,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5213390,ca,38,64853,blue,black,dtg operations inc,12700,12600,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5272361,ca,26,65099,red,black,dtg operations inc,11750,10700,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5229277,ca,23,58430,red,beige,the hertz corporation,11950,11500,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5203811,ca,24,39652,gray,black,dtg operations inc,13200,12000,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5229838,ca,27,66551,white,black,dtg operations inc,11700,10500,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5260170,ca,4,60509,white,black,dtg operations inc,12050,11700,Thu Jan 08 2015 11:30:00 GMT-0800 (PST),2015-01-08,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7c5273374,ca,38,46099,white,black,dtg operations inc,12250,11800,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en6a5107336,nj,28,60643,gray,tan,wells fargo dealer services,10800,9200,Wed Jan 07 2015 09:30:00 GMT-0800 (PST),2015-01-07,1
+2010,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8fhxa5157973,fl,44,88084,gray,black,pompano ford lincoln mercury,13600,14700,Fri Jan 09 2015 09:35:00 GMT-0800 (PST),2015-01-09,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n375354773,oh,39,46320,red,black,santander consumer,8125,9100,Tue Jan 06 2015 04:00:00 GMT-0800 (PST),2015-01-06,1
+2007,FORD,MUSTANG,Premium,Convertible,automatic,1zvft84n575287366,mo,36,103753,gray,gray,o'fallon motorsports,6400,7000,Tue Jan 06 2015 03:00:00 GMT-0800 (PST),2015-01-06,1
+2005,FORD,MUSTANG,Deluxe,Convertible,,1zvht84n055247170,nc,23,63414,yellow,black,fiserv/global lending services,6775,5900,Tue Jan 27 2015 01:15:00 GMT-0800 (PST),2015-01-27,1
+2004,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a44y104126,fl,44,35657,burgundy,beige,lauderdale imports ltd bmw pembrok pines,13850,14300,Fri Jan 02 2015 09:35:00 GMT-0800 (PST),2015-01-02,1
+2000,FORD,MUSTANG,Base,Convertible,,1fafp4449yf154277,fl,2,102916,black,gray,metro ford inc,1725,2200,Fri Jan 02 2015 09:30:00 GMT-0800 (PST),2015-01-02,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff8e5300438,fl,42,23942,—,black,budget rac of atlanta,24600,24900,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em6e5328416,pa,2,12960,gray,black,enterprise-tra,21900,11200,Fri Jan 09 2015 08:29:00 GMT-0800 (PST),2015-01-09,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4c5233690,nj,19,33877,black,black,ford motor credit company llc,12800,13700,Wed Jan 07 2015 09:00:00 GMT-0800 (PST),2015-01-07,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9c5252140,fl,38,37623,—,black,ford motor credit company llc pd,14200,15100,Thu Jan 08 2015 01:00:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5213308,ca,31,61305,blue,black,dtg operations inc,13100,12800,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5328550,ca,2,5141,white,black,enterprise vehicle exchange / tra / rental / tulsa,23000,5000,Tue Jan 06 2015 13:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5205897,ca,4,61932,silver,black,dtg operations inc,13050,12700,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5234096,ca,39,65618,gray,black,dtg operations inc,12600,12500,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5294991,ca,2,8131,silver,black,enterprise vehicle exchange / tra / rental / tulsa,18750,5300,Tue Jan 06 2015 13:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5306903,ca,2,8685,black,black,enterprise vehicle exchange / tra / rental / tulsa,22500,16200,Tue Jan 27 2015 04:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5205846,ca,35,61839,blue,black,dtg operations inc,13050,12800,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5289382,ca,4,13750,white,black,enterprise vehicle exchange / tra / rental / tulsa,18050,15500,Tue Jan 06 2015 04:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5213354,ca,43,61602,red,black,dtg operations inc,13050,13100,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5304755,ca,2,12971,black,black,enterprise vehicle exchange / tra / rental / tulsa,18100,11900,Tue Jan 06 2015 04:00:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5205850,ca,33,61763,blue,gray,dtg operations inc,13050,10500,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2000,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x8yf111235,ca,21,194190,black,brown,volkswagen santa monica,1325,1400,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5227303,ca,21,63744,white,black,dtg operations inc,11800,10700,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5272366,ca,44,61508,white,black,dtg operations inc,11800,12000,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2008,FORD,MUSTANG,Premium,Convertible,automatic,1zvht84n185151990,fl,26,84832,black,tan,grow financial fcu,7900,7800,Thu Jan 08 2015 01:30:00 GMT-0800 (PST),2015-01-08,1
+2003,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44473f313533,ga,21,122456,blue,tan,the salvation army,2775,2100,Tue Jan 13 2015 13:10:00 GMT-0800 (PST),2015-01-13,1
+2002,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44412f113312,in,19,151894,white,black,heritage acceptance,1925,750,Thu Jan 08 2015 10:07:00 GMT-0800 (PST),2015-01-08,1
+2000,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x1yf194667,mi,2,117577,black,black,liquidation llc,2225,2300,Wed Jan 14 2015 16:00:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5205905,ga,37,59239,white,black,dollar thrifty automotive group,13100,14600,Tue Jan 06 2015 01:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5205492,mi,44,30588,black,black,ars-cpo,18900,20900,Thu Jan 22 2015 01:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5240403,fl,22,32393,silver,black,florida auto financial group,16050,15100,Tue Jan 06 2015 09:30:00 GMT-0800 (PST),2015-01-06,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5260148,la,35,55287,gray,black,dollar thrifty auto group/faao,12150,13700,Wed Jan 07 2015 10:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5272214,ca,2,15866,white,black,enterprise vehicle exchange / tra / rental / tulsa,18300,15500,Tue Jan 13 2015 12:00:00 GMT-0800 (PST),2015-01-13,1
+1998,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x4wf210616,ca,25,101595,green,beige,aaero sweet company,2300,1800,Wed Jan 07 2015 11:30:00 GMT-0800 (PST),2015-01-07,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2c5259298,fl,34,50811,black,gray,gm financial,11850,12600,Wed Jan 14 2015 09:10:00 GMT-0800 (PST),2015-01-14,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en0a5124648,ca,33,78575,gray,black,premium auto wholesale,9325,9700,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n575273029,ca,26,110493,white,gray,800 loan mart,6375,5000,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n775278930,tx,35,138007,silver,—,santander consumer,5675,4500,Wed Jan 14 2015 02:00:00 GMT-0800 (PST),2015-01-14,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84n065134398,ca,28,179005,red,brown,carrera enterprises,4400,3500,Wed Jan 07 2015 12:30:00 GMT-0800 (PST),2015-01-07,1
+2005,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvht85h155231763,ca,2,101441,blue,black,veros credit,7175,4500,Tue Jan 13 2015 04:00:00 GMT-0800 (PST),2015-01-13,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n655223348,va,28,120806,black,gray,blue ridge auto sale  llc,4600,5100,Wed Jan 07 2015 01:30:00 GMT-0800 (PST),2015-01-07,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,manual,1fafp45x34f119723,ga,23,121790,red,black,tdaf remarketing,4075,5000,Tue Jan 06 2015 13:10:00 GMT-0800 (PST),2015-01-06,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a54y101798,tx,5,25463,silver,black,pm standley motorcars,15050,17500,Wed Jan 28 2015 02:20:00 GMT-0800 (PST),2015-01-28,1
+2003,FORD,MUSTANG,Premium,Convertible,automatic,1fafp444x3f325711,ca,2,165586,red,beige,titlemax/garden grove ca1,1725,600,Wed Jan 14 2015 03:00:00 GMT-0800 (PST),2015-01-14,1
+2002,FORD,MUSTANG,GT Deluxe,Convertible,automatic,1fafp45x52f194985,tx,19,127364,white,tan,huffines chrysler jeep dodge lewisville,2250,2100,Thu Jan 08 2015 11:00:00 GMT-0800 (PST),2015-01-08,1
+2002,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44442f110274,ca,21,153435,black,black,california auto exchange,1900,1200,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2002,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a82y109648,ca,24,102108,black,black,premium auto wholesale,8975,7300,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2001,FORD,MUSTANG,Deluxe,Convertible,,1fafp44471f136057,ca,32,136820,green,tan,walters auto sales/service inc,1875,2350,Tue Jan 06 2015 12:30:00 GMT-0800 (PST),2015-01-06,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em0e5300157,az,1,16664,silver,black,enterprise vehicle exchange / tra / rental / tulsa,17950,12200,Wed Jan 07 2015 11:00:00 GMT-0800 (PST),2015-01-07,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5238281,fl,29,37562,silver,black,ez rent a car inc,16300,15900,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5292259,tx,45,21214,—,gray,ars/enterprise,20600,20200,Thu Jan 08 2015 10:30:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5279066,fl,41,20492,red,tan,enterprise veh exchange/rental,20700,20000,Fri Jan 09 2015 09:20:00 GMT-0800 (PST),2015-01-09,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5272243,tx,43,57855,gray,black,dtg operations inc,11850,13500,Wed Jan 07 2015 10:05:00 GMT-0800 (PST),2015-01-07,1
+2012,FORD,MUSTANG,V6,Convertible,manual,1zvbp8em7c5270099,ca,45,19817,red,black,ford motor credit company llc pd,14850,13700,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6c5207382,ca,33,56469,blue,black,onemain rem/casey's car inc,11400,10800,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxc5286541,ca,21,63214,silver,black,the hertz corporation,10900,8800,Tue Jan 13 2015 12:30:00 GMT-0800 (PST),2015-01-13,1
+2009,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84n195125567,in,46,63320,white,tan,john jones chevrolet buick of scottsburg inc,7350,9600,Thu Jan 08 2015 10:10:00 GMT-0800 (PST),2015-01-08,1
+2009,FORD,MUSTANG,GT Premium,Convertible,manual,1zvht85h395117754,ga,21,94319,black,black,onesource/savannah toyota scion,11150,9800,Thu Jan 15 2015 02:00:00 GMT-0800 (PST),2015-01-15,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a74y106274,fl,47,94084,red,tan,andrew thomas motorcars,8825,11100,Thu Jan 08 2015 01:45:00 GMT-0800 (PST),2015-01-08,1
+2003,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44453f333702,nc,28,122354,black,gray,crossroads ford inc,2700,3000,Mon Jan 12 2015 09:00:00 GMT-0800 (PST),2015-01-12,1
+1998,FORD,MUSTANG,Base,Convertible,automatic,1fafp4443wf215863,tn,32,236955,blue,gray,lance cunningham ford,375,800,Tue Jan 13 2015 10:30:00 GMT-0800 (PST),2015-01-13,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5227228,nv,34,61055,white,gray,dtg operations inc,13300,13000,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5234142,nv,31,62234,white,black,dtg operations inc,13200,12900,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5319212,fl,28,857,silver,gray,ford motor credit company llc,20300,20300,Fri Jan 16 2015 01:00:00 GMT-0800 (PST),2015-01-16,1
+2013,FORD,MUSTANG,GT Premium,Convertible,manual,1zvbp8ff5d5270233,ca,29,12726,blue,brown,ford motor credit company llc pd,24100,22700,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5234467,nv,29,63566,red,black,dtg operations inc,11950,11600,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5270028,nv,35,32952,gray,black,enterprise veh exchange/rental,15150,17300,Fri Jan 09 2015 12:00:00 GMT-0800 (PST),2015-01-09,1
+2010,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8fhxa5124374,tx,43,67927,black,black,credit union of texas,15700,15500,Tue Jan 13 2015 10:30:00 GMT-0800 (PST),2015-01-13,1
+2007,FORD,MUSTANG,Premium,Convertible,automatic,1zvft84nx75210895,ga,19,171097,red,black,nalley bmw,3825,4100,Tue Jan 13 2015 13:00:00 GMT-0800 (PST),2015-01-13,1
+2005,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvft85hx55175555,ca,19,105662,silver,black,gosch ford,6800,4500,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,automatic,1fafp45x24f199368,ga,27,145490,red,black,sunrise acceptance inc,3125,3000,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2004,FORD,MUSTANG,Premium,Convertible,,1fafp44604f179662,tx,2,137793,red,—,titlemax/austin tx15,2375,1200,Tue Jan 13 2015 03:00:00 GMT-0800 (PST),2015-01-13,1
+2003,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a93y112947,nc,43,27744,red,red,hendrick dodge,15850,16400,Mon Jan 19 2015 01:30:00 GMT-0800 (PST),2015-01-19,1
+1999,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x7xf170288,nc,25,129087,red,tan,fleet lease remarketing,2350,3500,Mon Jan 26 2015 01:30:00 GMT-0800 (PST),2015-01-26,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5328545,ca,2,5508,blue,black,enterprise vehicle exchange / tra / rental / tulsa,23000,14250,Tue Jan 27 2015 04:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5227092,nv,36,59004,red,black,dtg operations inc,13550,13100,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5293258,ca,2,26237,white,black,enterprise vehicle exchange / tra / rental / tulsa,16900,11900,Thu Jan 08 2015 04:00:00 GMT-0800 (PST),2015-01-08,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5217757,nv,3,62526,blue,black,dtg operations inc,13150,12901,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff4e5314367,qc,48,14685,white,black,ford motor company of canada,28900,29000,Tue Jan 20 2015 02:00:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5234476,nv,32,61745,black,black,dtg operations inc,12050,11600,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44654f240455,fl,19,118441,white,black,plus auto sales corp,2125,2500,Fri Jan 09 2015 09:20:00 GMT-0800 (PST),2015-01-09,1
+2004,FORD,MUSTANG,Premium,Convertible,,1fafp44644f154828,az,19,96495,silver,gray,remarketing by ge/america first credit union,3225,3000,Thu Jan 15 2015 03:00:00 GMT-0800 (PST),2015-01-15,1
+2001,FORD,MUSTANG,GT Premium,Convertible,,1fafp45x51f182611,ca,19,105387,black,gray,arrowhead auto group inc,4000,3200,Thu Jan 08 2015 12:00:00 GMT-0800 (PST),2015-01-08,1
+2011,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8b5116239,nj,38,82182,silver,black,holman automotive grp inc,10850,9500,Wed Jan 14 2015 01:30:00 GMT-0800 (PST),2015-01-14,1
+2007,FORD,MUSTANG,Premium,Convertible,automatic,1zvft84n175279152,tx,21,104763,red,black,jpmorgan chase bank n.a.,6650,4300,Wed Jan 28 2015 02:15:00 GMT-0800 (PST),2015-01-28,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n355178210,ut,19,80511,red,gray,capital one auto finance,5900,4100,Wed Jan 14 2015 03:30:00 GMT-0800 (PST),2015-01-14,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a34y104344,ca,3,100327,black,black,remarketing by ge/southern california financial,7975,8500,Tue Jan 27 2015 04:00:00 GMT-0800 (PST),2015-01-27,1
+2002,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a72y129857,pa,42,164942,blue,blue,car sense incorporated,7375,6600,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2001,FORD,MUSTANG,SVT Cobra,Convertible,manual,1fafp46vx1f250754,ga,19,150668,burgundy,black,tdaf remarketing,3975,3400,Tue Jan 27 2015 05:10:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5314323,mo,5,5170,red,—,ford motor credit company,20300,19500,Tue Jan 27 2015 05:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5208544,ca,39,60919,gray,black,dtg operations inc,13300,13200,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5234118,ca,36,61908,gray,gray,the hertz corporation,13250,13100,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5213368,ca,42,60687,gray,black,dtg operations inc,13350,13200,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5236519,nv,4,44260,white,black,avis corporation,16750,17700,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5227192,ca,36,54238,gray,black,dtg operations inc,14100,13600,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5210910,fl,42,42422,—,black,ars/avis budget group,17000,17900,Thu Jan 22 2015 01:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5213366,ca,37,57264,gray,black,dtg operations inc,13750,13200,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5217779,ca,34,56444,black,black,dtg operations inc,13850,13400,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8ff7e5307154,tx,44,28551,—,black,budget rac of memphis,24300,24300,Thu Jan 15 2015 02:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5227139,wa,35,56765,gray,black,the hertz corporation,13850,13300,Wed Jan 14 2015 05:10:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5217769,ca,37,58741,silver,black,dtg operations inc,13550,13300,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5210630,ca,39,61687,red,gray,the hertz corporation,13250,13000,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5217765,ca,39,56709,silver,black,dtg operations inc,13800,13400,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5227152,ca,29,58113,black,black,dtg operations inc,13750,13000,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5229479,ca,39,58772,blue,black,the hertz corporation,13600,13600,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5322765,tx,43,15453,red,beige,avis budget group,18900,18500,Wed Jan 21 2015 01:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5264390,fl,35,26570,red,tan,enterprise vehicle exchange/ars/coconut creek,17300,19700,Fri Jan 16 2015 01:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5227226,ca,35,63631,white,black,the hertz corporation,13050,13400,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5261366,tn,49,28225,burgundy,black,ars/enterprise,19500,19200,Wed Jan 14 2015 10:00:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5205873,ca,35,58342,blue,black,dtg operations inc,13600,13300,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9d5239499,fl,42,39282,white,gray,avis corporation,14200,16700,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5276436,ca,39,61588,gray,black,dtg operations inc,11900,11100,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5236564,wa,31,62691,green,black,the hertz corporation,11550,11600,Wed Jan 14 2015 05:10:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5276413,ca,28,63140,red,black,dtg operations inc,11850,10600,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5234474,tn,36,65614,—,black,dtg operations inc,11750,12800,Wed Jan 14 2015 02:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5260145,ca,37,55584,gray,black,dtg operations inc,12100,11700,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5231749,fl,26,17520,—,black,ford motor credit company llc pd,16450,14900,Thu Jan 29 2015 01:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5237436,ma,37,63440,gray,black,dtg operations inc,12000,12900,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5260173,ca,28,54590,white,black,dtg operations inc,12150,11000,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5260184,ma,44,54062,black,black,dtg operations inc,12550,13200,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5260166,ca,39,62644,gray,gray,the hertz corporation,11850,12700,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5241977,ca,38,57570,white,black,dtg operations inc,12050,11800,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5270057,ca,25,57933,red,black,dtg operations inc,12650,11300,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5276367,ca,34,61735,blue,black,dtg operations inc,12100,11700,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9c5282626,ga,32,61417,blue,black,wells fargo dealer services,10950,13100,Thu Jan 15 2015 02:00:00 GMT-0800 (PST),2015-01-15,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1c5279641,ca,41,62487,blue,black,the hertz corporation,11100,11100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en5a5181427,oh,34,69607,black,black,wholesale inc # 2,9775,11100,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2009,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84n295112858,fl,36,87345,white,tan,santander consumer,7100,7800,Thu Jan 15 2015 01:35:00 GMT-0800 (PST),2015-01-15,1
+2009,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84nx95137667,ca,25,77640,silver,gray,ideal transportation,7150,7700,Wed Jan 14 2015 04:15:00 GMT-0800 (PST),2015-01-14,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n775279107,tx,27,124651,red,black,usaa financial,5650,6900,Tue Jan 20 2015 16:00:00 GMT-0800 (PST),2015-01-20,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n465108989,ga,19,128263,white,beige,enterprise veh exchange/rental,5175,4200,Tue Jan 13 2015 13:10:00 GMT-0800 (PST),2015-01-13,1
+2005,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvft85h155180823,ny,29,102099,silver,gray,credit acceptance corp/vrs/southfield,7175,6100,Thu Jan 22 2015 01:15:00 GMT-0800 (PST),2015-01-22,1
+2004,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44644f137897,nc,28,122783,black,black,honda cars of rock hill,2800,4300,Wed Jan 14 2015 06:30:00 GMT-0800 (PST),2015-01-14,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,manual,1fafp45x04f190233,ca,28,90747,black,black,century dealer services corp,5750,5300,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44624f179243,ca,2,143983,black,black,tradewinds remarketing,1850,2400,Tue Jan 13 2015 12:00:00 GMT-0800 (PST),2015-01-13,1
+2002,FORD,MUSTANG,GT Deluxe,Convertible,manual,1fafp45xx2f120168,nc,19,122472,blue,gray,coastal union remarketing,2500,3500,Mon Jan 19 2015 01:30:00 GMT-0800 (PST),2015-01-19,1
+1999,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x8xf146596,ca,19,169880,white,black,worthington ford,1300,1750,Wed Jan 14 2015 04:00:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5213326,ca,38,61175,silver,black,dtg operations inc,13300,13000,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5213365,ca,42,61409,gray,black,dtg operations inc,13300,13400,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5217783,az,39,52487,red,black,dtg operations inc,14300,14100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5227175,ca,44,60721,red,black,dtg operations inc,13300,13200,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5219993,az,36,51979,red,black,dtg operations inc,14350,14100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5210612,az,43,59175,black,black,dtg operations inc,13550,13300,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5227142,az,38,51445,black,black,dtg operations inc,14450,14600,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5210634,ca,41,61317,gray,black,dtg operations inc,13300,13100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5322965,fl,47,17960,—,gray,avis budget group,18600,19900,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5300120,ca,2,26632,black,black,enterprise vehicle exchange / tra / rental / tulsa,17200,14100,Tue Jan 13 2015 12:00:00 GMT-0800 (PST),2015-01-13,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5323020,tn,46,14663,—,black,avis budget group,19050,18900,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5323209,fl,42,11964,white,gray,avis budget group,19300,20900,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5208549,ca,43,60156,white,blue,dtg operations inc,13450,13000,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5323029,tn,49,13971,black,black,avis budget group,19100,22300,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5322857,fl,5,12301,black,black,avis budget group,19300,20600,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5227168,ca,36,59950,red,black,dtg operations inc,13450,13400,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5322846,fl,49,13097,black,black,avis budget group,19200,20500,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5322962,fl,49,18264,black,black,avis budget group,18550,20500,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5205896,ca,25,64316,blue,black,dtg operations inc,12950,12000,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5213385,ca,39,61789,white,black,dtg operations inc,13250,13800,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5322728,fl,42,11664,—,black,avis budget group,21800,21900,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5229187,az,35,55344,white,black,the hertz corporation,16200,16300,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5323183,fl,47,12899,white,gray,avis budget group,21700,22900,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5213388,ca,35,61506,white,black,dtg operations inc,13250,13100,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5231742,ca,25,63692,white,black,the hertz corporation,16200,12500,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5210882,fl,42,41006,—,black,ars/avis budget group,17250,18000,Thu Jan 22 2015 01:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5210601,ca,37,61451,gray,black,dtg operations inc,13300,13000,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5205878,ca,29,66366,black,black,dtg operations inc,12700,12900,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em4e5229190,az,38,53166,red,black,the hertz corporation,15450,15700,Thu Jan 29 2015 03:30:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5210649,ca,27,63446,white,black,dtg operations inc,13050,13000,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5213314,ca,38,64196,blue,black,the hertz corporation,13000,12700,Wed Jan 14 2015 04:30:00 GMT-0800 (PST),2015-01-14,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em7e5317280,ca,19,15551,black,gray,enterprise vehicle exchange / tra / rental / tulsa,20900,14000,Tue Jan 20 2015 04:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5262564,fl,22,26217,silver,black,florida auto financial group,19700,16400,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5231809,ca,36,61133,silver,black,the hertz corporation,16200,14100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5229418,ca,44,62328,gray,black,dtg operations inc,13200,13000,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5276475,ca,3,64379,red,black,the hertz corporation,11600,12200,Tue Jan 13 2015 12:30:00 GMT-0800 (PST),2015-01-13,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5219697,ca,29,69994,silver,black,dtg operations inc,11550,11600,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5229476,az,35,52021,white,black,the hertz corporation,12950,13100,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5260229,ca,23,61647,gray,black,dtg operations inc,11850,11600,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9d5272339,ca,32,67171,white,black,dtg operations inc,11650,11500,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5276466,ca,41,60645,gray,black,dtg operations inc,11900,12400,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5276481,az,43,55952,gray,—,dtg operations inc,12050,13500,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,,1zvbp8em0d5280460,ga,38,55271,gray,gray,the hertz corporation,11950,13200,Tue Jan 13 2015 09:30:00 GMT-0800 (PST),2015-01-13,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5234465,ca,27,67675,black,black,dtg operations inc,11650,11800,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5272303,ca,29,59271,blue,black,dtg operations inc,11950,12200,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5276373,ca,41,59278,white,black,dtg operations inc,11950,12600,Thu Jan 15 2015 03:30:00 GMT-0800 (PST),2015-01-15,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en3a5118746,ca,25,84430,black,black,stg auto group,8875,10300,Wed Jan 14 2015 04:00:00 GMT-0800 (PST),2015-01-14,1
+2006,FORD,MUSTANG,GT Premium,Convertible,manual,1zvht85h765264042,ca,32,151253,gray,black,premium auto wholesale,4925,6500,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2002,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a62y124701,ca,21,94899,red,red,premium auto wholesale,8875,7800,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5285864,nv,4,8231,red,black,remarketing by ge/certified fleet inc,22000,19250,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5238399,nv,37,42548,blue,black,ez rent a car/orlando,15450,14700,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5238414,nv,42,42486,red,black,ez rent a car/orlando,15450,14400,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5238384,nv,33,42384,gray,black,ez rent a car/orlando,15450,14400,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5295046,ca,2,12659,silver,black,midway hfc fleet,19050,13600,Tue Jan 20 2015 04:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5238375,nv,42,36480,white,black,ez rent a car/orlando,16150,14500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5238388,nv,44,44516,black,black,ez rent a car/orlando,15250,14300,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5227279,nv,19,65950,black,black,dtg operations inc,11800,10200,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5222029,la,35,58294,red,black,the hertz corporation,12000,13500,Wed Jan 14 2015 02:00:00 GMT-0800 (PST),2015-01-14,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44654f192276,fl,19,62672,black,—,courtesy toyota of brandon,4900,3300,Thu Jan 15 2015 08:20:00 GMT-0800 (PST),2015-01-15,1
+2004,FORD,MUSTANG,Premium,Convertible,,1fafp44674f239677,fl,2,87575,gray,gray,enterprise vehicle exchange / rental / tulsa,4050,2800,Fri Jan 16 2015 01:25:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5227240,nv,41,56077,white,black,dtg operations inc,13900,13500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5227203,ca,35,56585,gray,black,dtg operations inc,13850,13300,Thu Jan 15 2015 04:30:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5220010,nv,42,59703,white,black,dtg operations inc,13450,13100,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5245637,nv,42,46699,white,black,the hertz corporation,16100,15700,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5220016,nv,37,57736,silver,black,dtg operations inc,13700,13400,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5260190,ca,33,63752,black,black,dtg operations inc,11750,11000,Thu Jan 15 2015 04:30:00 GMT-0800 (PST),2015-01-15,1
+1997,FORD,MUSTANG SVT COBRA,Base,Convertible,manual,1falp46vxvf164207,tx,38,63564,red,—,lone star liquidation/twisted performance,5050,3500,Thu Jan 15 2015 04:00:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5220114,ga,47,33217,white,tan,ford-lincoln dealer program,16600,18800,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5302042,ga,48,30213,white,black,ars/enterprise,16950,17600,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5240952,tn,49,9921,—,beige,ford motor credit company llc,19600,24500,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84nx55250691,az,36,39694,blue,beige,onesource/southwest remarketing,6975,7800,Thu Jan 15 2015 03:00:00 GMT-0800 (PST),2015-01-15,1
+2003,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a93y104735,ga,41,10607,white,black,germain toyota of naples/germain scion of naples,17550,17200,Thu Jan 15 2015 02:00:00 GMT-0800 (PST),2015-01-15,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5210641,ca,44,65030,gray,black,dtg operations inc,12800,12800,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5215677,nv,32,60745,red,gray,dtg operations inc,13350,13100,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5227194,nv,33,58447,gray,black,dtg operations inc,13600,13200,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5263616,tn,47,17778,—,gray,ford-lincoln dealer program,18600,18700,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5272046,tn,47,17428,—,black,ford-lincoln dealer program,18800,22100,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5213331,nv,42,57094,silver,black,dtg operations inc,13750,13300,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff7e5307297,on,48,17245,black,black,ford motor company of canada  limited,28200,28700,Tue Jan 27 2015 02:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5220017,ca,43,66276,black,black,dtg operations inc,12650,12700,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5229432,nv,38,56288,silver,black,dtg operations inc,13850,13500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5234136,ca,43,59255,gray,black,dtg operations inc,13550,13301,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5237296,ca,39,62972,silver,black,dtg operations inc,12050,12500,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5229853,ca,29,64491,black,black,dtg operations inc,11950,12000,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5272318,ca,27,56874,silver,black,dtg operations inc,12700,12100,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5202891,ca,45,56909,silver,black,the hertz corporation,12400,13900,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5272302,ca,36,58815,black,black,dtg operations inc,12300,12500,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5260231,ca,39,60351,white,black,dtg operations inc,12200,12400,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5272312,ca,35,59496,black,black,dtg operations inc,12250,13100,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5236542,ca,21,65129,black,black,the hertz corporation,11100,10600,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5264964,ca,4,63228,gray,black,the hertz corporation,12050,12500,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxc5258707,tn,43,31663,—,tan,ford motor credit company llc,15900,17200,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em7e5238286,fl,43,38914,silver,gray,ez rent a car inc,15900,16000,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5238290,fl,35,35872,gray,black,ez rent a car inc,16300,15900,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5238338,fl,35,36353,gray,black,ez rent a car inc,16250,15700,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5227099,il,38,59440,blue,black,dtg operations inc,13500,13200,Tue Jan 20 2015 02:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5238275,fl,41,37676,white,black,ez rent a car inc,16050,15800,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5265019,ca,41,58866,white,black,dtg operations inc,12550,12400,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2010,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8fh1a5130404,sc,21,119430,black,black,hendrick hyundai north,13600,12800,Tue Jan 20 2015 02:00:00 GMT-0800 (PST),2015-01-20,1
+2008,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvht85hx85195298,tx,32,88724,black,gray,santander consumer,10000,10300,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n855253676,fl,3,171404,blue,gray,remarketing by ge/flagship credit acceptance,3375,3800,Tue Jan 20 2015 03:05:00 GMT-0800 (PST),2015-01-20,1
+2004,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44634f230118,nv,28,134970,white,black,amigo auto sales,2400,2200,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,automatic,1fafp45x54f175310,pa,31,86838,white,gray,criswell isuzu trucks,5925,6100,Fri Jan 16 2015 01:30:00 GMT-0800 (PST),2015-01-16,1
+2003,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a13y107824,la,5,83947,off-white,black,meridian remarketing,10500,14500,Wed Jan 21 2015 03:00:00 GMT-0800 (PST),2015-01-21,1
+1995,FORD,MUSTANG,GT,Convertible,manual,1falp45t6sf118322,wa,2,141829,green,beige,repo remarketing inc,1425,1000,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5263552,fl,39,30948,—,black,enterprise rent a car,17000,17500,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5238278,fl,38,35198,white,black,ez rent a car inc,16350,16000,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5275705,fl,42,32326,—,gray,enterprise rent a car,16850,17500,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5210645,ca,47,59323,white,black,dtg operations inc,13500,13200,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5292334,fl,2,18400,silver,—,enterprise vehicle exchange / tra / rental / tulsa,18350,10700,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5208520,md,39,64310,black,black,dtg operations inc,12900,13700,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5210893,fl,45,44525,white,tan,ars/avis budget group,16800,17800,Thu Jan 29 2015 01:00:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5210912,fl,42,42996,—,black,ars/avis budget group,16900,17900,Thu Jan 22 2015 01:00:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5227287,ca,41,77968,blue,black,dtg operations inc,11550,10800,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8c5276428,fl,25,62121,silver,black,dtg operations inc,11200,10700,Wed Jan 21 2015 01:10:00 GMT-0800 (PST),2015-01-21,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0c5225053,nv,41,78595,white,black,unique autos,9550,9900,Fri Jan 23 2015 03:45:00 GMT-0800 (PST),2015-01-23,1
+2009,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84n095108131,tx,19,92679,red,gray,wells fargo dealer services,6925,7000,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5203954,la,19,59923,black,black,dollar thrifty auto group/faao,12500,12700,Wed Jan 21 2015 02:00:00 GMT-0800 (PST),2015-01-21,1
+2010,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8fh8a5150567,nv,39,14792,black,black,ford-lincoln dealer program,20900,21500,Fri Jan 16 2015 04:00:00 GMT-0800 (PST),2015-01-16,1
+2006,FORD,MUSTANG,Premium,Convertible,automatic,1zvft84n565238277,fl,33,164608,blue,black,clermont nissan,2825,4300,Tue Jan 20 2015 10:00:00 GMT-0800 (PST),2015-01-20,1
+2001,FORD,MUSTANG,GT Premium,Convertible,manual,1fafp45x11f161433,fl,19,98355,red,black,mercedes benz of fort myers,3750,2900,Tue Jan 20 2015 10:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5279103,fl,46,28818,red,black,enterprise veh exchange/rental,17150,18400,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5280505,ga,39,64002,white,black,dollar thrifty automotive group,12300,13601,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5237255,ga,37,59297,blue,black,dollar thrifty automotive group,12250,13400,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4c5262431,ca,35,44821,blue,black,wells fargo dealer services,12750,12600,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2002,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44472f107238,ca,31,95803,red,black,jimmie johnson kearny mesa chevrolet,2225,4500,Tue Jan 20 2015 04:30:00 GMT-0800 (PST),2015-01-20,1
+2000,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x8yf203798,ca,19,187926,silver,gray,800 loan mart,1475,1250,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5238359,fl,36,39610,blue,black,ez rent a car inc,15850,15400,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5208535,ca,35,64137,black,black,the hertz corporation,13000,12900,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5213384,ca,45,62726,white,black,the hertz corporation,13150,13000,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5205887,ca,35,62273,gray,black,the hertz corporation,13200,12900,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5272351,ca,37,66745,red,black,the hertz corporation,12000,11600,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5276398,ca,31,53526,gray,black,dtg operations inc,12850,12300,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2005,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n855215901,nc,2,101325,red,gray,hendrick fiat of concord,5450,6500,Wed Jan 21 2015 06:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5224819,ca,43,35141,white,black,fleet link services inc,18150,16600,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5238280,fl,4,38007,silver,black,ez rent a car inc,16050,15800,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5238288,fl,43,37260,gray,black,ez rent a car inc,16100,16000,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5238341,fl,37,37197,gray,black,ez rent a car inc,16350,15900,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5266407,ca,37,8698,red,black,certified preowned ford&lincoln/mercury dlr unit,22400,19600,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5260139,ca,44,61127,white,gray,dtg operations inc,12400,12100,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8ff6d5261024,ga,49,7796,black,black,ford-lincoln dealer program,24300,26900,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5203962,tx,38,71997,white,black,c&f finance company,11650,11000,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,,1zvbp8em2d5202715,pa,26,52800,black,gray,the hertz corporation,12800,13800,Fri Jan 23 2015 01:00:00 GMT-0800 (PST),2015-01-23,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5219762,tn,42,46350,silver,black,wholesale inc # 2,13450,14000,Wed Jan 21 2015 02:30:00 GMT-0800 (PST),2015-01-21,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5296930,fl,44,17787,blue,black,enterprise veh exchange/rental,18450,19700,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2002,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a62y120258,fl,34,42258,yellow,—,tdaf remarketing,15250,14000,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+1998,FORD,MUSTANG,Base,Convertible,automatic,1fafp4444wf172473,pa,19,133759,red,brown,hertz remarketing,1100,1000,Fri Jan 23 2015 01:00:00 GMT-0800 (PST),2015-01-23,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5236797,fl,38,53427,red,black,ciscon llc,12600,13900,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2005,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60ax5y108716,ca,35,71917,blue,black,m l sim,8925,10400,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5210626,ca,35,57915,red,black,the hertz corporation,13750,13400,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2011,FORD,MUSTANG,GT Premium,Convertible,automatic,1zvbp8ff7b5161110,md,5,43349,black,black,exeter finance corp,23100,22000,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en9a5172228,fl,39,62812,silver,black,tdaf remarketing,10250,10900,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5279123,fl,37,27866,white,black,enterprise veh exchange/rental,17450,20000,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5263457,fl,42,30690,black,gray,enterprise veh exchange/rental,17100,18400,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em4e5302400,fl,49,27950,black,black,tdaf remarketing,19050,19800,Tue Jan 20 2015 01:00:00 GMT-0800 (PST),2015-01-20,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5292123,fl,4,22095,silver,black,enterprise veh exchange/rental,18150,19000,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5272260,ca,4,63675,blue,black,the hertz corporation,12200,12000,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5276420,ca,41,65329,white,gray,the hertz corporation,12100,12200,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en9a5172178,tn,25,90319,blue,—,dt inventory,8900,7200,Tue Jan 20 2015 02:30:00 GMT-0800 (PST),2015-01-20,1
+2010,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8fh2a5164500,fl,47,56569,gray,black,cire leasing,16650,17700,Tue Jan 27 2015 01:15:00 GMT-0800 (PST),2015-01-27,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n575291742,fl,27,184735,white,gray,triangle chevrolet buick inc,3600,4800,Tue Jan 20 2015 02:30:00 GMT-0800 (PST),2015-01-20,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a14y104133,oh,45,68824,burgundy,beige,byers ford llc,12000,12300,Tue Jan 20 2015 01:30:00 GMT-0800 (PST),2015-01-20,1
+2002,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44422f141572,fl,28,143037,blue,blue,mid atlantic finance/clearwater,1650,2200,Thu Jan 22 2015 07:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5220020,az,4,51419,silver,black,dtg operations inc,14500,14300,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em0e5243670,az,19,52242,red,black,the hertz corporation,14400,13400,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1d5276384,az,32,56596,black,black,dtg operations inc,12700,12400,Thu Jan 29 2015 03:30:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5272236,az,31,58800,black,black,dtg operations inc,12550,12100,Thu Jan 29 2015 03:30:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5203907,az,42,22135,gray,black,dtg operations inc,14250,13800,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9d5260188,az,43,54850,black,black,dtg operations inc,12750,12100,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9c5217047,ca,19,58889,yellow,black,dtg operations inc,11750,9500,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5c5272806,ca,47,23097,black,black,ford motor credit company llc pd,15100,15400,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2010,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8fh9a5118128,pa,47,25598,red,black,fred martin motor co,18400,19900,Wed Jan 21 2015 01:00:00 GMT-0800 (PST),2015-01-21,1
+2008,FORD,MUSTANG,GT Premium,Convertible,manual,1zvht85h385186300,wa,42,47358,black,black,crossborder vehicle sales ltd,13850,16600,Wed Jan 21 2015 04:30:00 GMT-0800 (PST),2015-01-21,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n875301647,fl,21,127162,black,black,greenway ford inc,5550,4800,Wed Jan 21 2015 01:25:00 GMT-0800 (PST),2015-01-21,1
+2005,FORD,MUSTANG,Premium,Convertible,manual,1zvft84n355194780,il,3,57083,blue,gray,four leaf finance,6325,7700,Thu Jan 22 2015 02:00:00 GMT-0800 (PST),2015-01-22,1
+2004,FORD,MUSTANG,GT Deluxe,Convertible,,1fafp45x54f175310,va,27,86841,white,white,ourismans rockmont chevrolet,5925,7300,Thu Jan 22 2015 01:35:00 GMT-0800 (PST),2015-01-22,1
+2003,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a73y102692,fl,33,100726,red,black,coconut creek auto mall,8875,7800,Thu Jan 29 2015 02:30:00 GMT-0800 (PST),2015-01-29,1
+2000,FORD,MUSTANG,Base,Convertible,automatic,1fafp444xyf124222,fl,19,169995,green,gray,tmx finance dba instaloan lakeland fl1,1325,700,Wed Jan 21 2015 08:31:00 GMT-0800 (PST),2015-01-21,1
+1999,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x9xf143965,pa,37,69307,black,beige,r hollenshead auto sales inc,3450,4100,Fri Jan 23 2015 01:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5210637,nv,35,58334,gray,black,the hertz corporation,13650,13100,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5266782,fl,42,28455,red,black,enterprise vehicle exchange/ars/coconut creek,17450,17700,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5229398,nv,43,55771,silver,black,the hertz corporation,13950,13500,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5205880,nv,29,63056,black,black,dtg operations inc,13050,12800,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5210631,nv,31,61816,red,black,dtg operations inc,13200,13600,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5310499,ca,2,23066,gray,black,enterprise vehicle exchange / tra / rental / tulsa,18000,12100,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5231725,nv,38,56127,silver,black,the hertz corporation,14900,14200,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5206441,ca,34,48591,blue,black,ford motor credit company llc pd,13150,15000,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3d5260199,nv,27,59303,silver,black,dtg operations inc,12450,10500,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxd5224560,nv,32,56049,green,black,fox rent a car,12650,12200,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8d5234360,tx,4,74252,white,black,remarketing by ge/ak&y enterprises inc,11500,12500,Thu Jan 22 2015 03:00:00 GMT-0800 (PST),2015-01-22,1
+2009,FORD,MUSTANG,Deluxe,Convertible,,1zvht84n395115753,nc,19,73188,blue,beige,prestige financial services,7550,5500,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5c5273695,ca,34,51389,blue,black,the hertz corporation,12150,12100,Thu Jan 22 2015 03:30:00 GMT-0800 (PST),2015-01-22,1
+2010,FORD,MUSTANG,GT,Convertible,automatic,1zvbp8fh3a5127343,fl,38,58256,black,black,elder ford of tampa,16400,15800,Thu Jan 22 2015 01:45:00 GMT-0800 (PST),2015-01-22,1
+2007,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n175315826,tx,25,133386,red,black,dt credit corporation,5475,4200,Tue Jan 27 2015 03:00:00 GMT-0800 (PST),2015-01-27,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n165235151,tx,4,118396,black,black,dt credit corporation,5450,6400,Tue Jan 27 2015 03:00:00 GMT-0800 (PST),2015-01-27,1
+2006,FORD,MUSTANG,Premium,Convertible,automatic,1zvht84nx65150480,pa,21,82904,blue,black,remarketing by ge/manheim pennsylvania,7625,5200,Fri Jan 23 2015 01:00:00 GMT-0800 (PST),2015-01-23,1
+2005,FORD,MUSTANG,Premium,Convertible,automatic,1zvft84n555227715,ca,31,111126,gray,tan,valley kia,4025,5200,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,,1fahp60a84y100029,pa,41,55208,burgundy,beige,r hollenshead auto sales inc,12950,14000,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2000,FORD,MUSTANG,GT,Convertible,manual,1fafp45x6yf227744,pa,46,8419,red,black,adcock brothers inc,3250,11000,Fri Jan 23 2015 01:30:00 GMT-0800 (PST),2015-01-23,1
+2000,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x2yf302925,ga,28,149055,red,black,mall of georgia mazda,1875,3300,Thu Jan 22 2015 02:00:00 GMT-0800 (PST),2015-01-22,1
+1998,FORD,MUSTANG,GT,Convertible,automatic,1fafp45x1wf248935,mo,19,85736,beige,brown,blackhawk finance,2400,2500,Tue Jan 27 2015 03:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5227114,ca,39,62890,silver,black,dtg operations inc,13150,13500,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5227222,ca,41,58355,white,black,dtg operations inc,13700,13900,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5232099,ca,31,57312,white,beige,dtg operations inc,13850,14300,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5213355,nv,44,57106,red,gray,dtg operations inc,13800,13500,Fri Jan 23 2015 04:00:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5213311,ca,31,64000,blue,black,dtg operations inc,13000,12700,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5217785,ca,43,61089,black,black,dtg operations inc,13350,13000,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff6e5314404,qc,49,8486,silver,black,ford motor company of canada,28400,29900,Tue Jan 27 2015 02:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5220024,ca,23,59863,white,black,dtg operations inc,13500,11500,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5205899,ca,37,60768,black,black,dtg operations inc,13400,13700,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5314308,mo,5,12377,red,tan,ford motor credit company,19450,22300,Tue Jan 27 2015 05:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5314315,mo,49,11415,blue,black,ford motor credit company,19550,19200,Tue Jan 27 2015 05:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5213339,ca,32,61286,black,black,dtg operations inc,13350,13200,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5293330,ca,1,33064,red,black,enterprise vehicle exchange / tra / rental / tulsa,16850,12700,Tue Jan 27 2015 04:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5227070,ca,37,63632,red,black,dtg operations inc,13050,13500,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5314322,mo,5,13172,red,gray,ford motor credit company,19350,19300,Tue Jan 27 2015 05:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5234485,ca,35,61358,silver,black,dtg operations inc,12450,12600,Tue Jan 27 2015 04:30:00 GMT-0800 (PST),2015-01-27,1
+2002,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a62y124701,ca,19,94904,red,red,premium auto wholesale,9500,6200,Thu Jan 22 2015 04:00:00 GMT-0800 (PST),2015-01-22,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5238303,fl,44,35074,red,black,ez rent a car inc,16600,16000,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em8e5238295,fl,34,37111,black,black,ez rent a car inc,16350,15700,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8emxe5238346,fl,41,35273,black,black,ez rent a car inc,16600,15900,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em6e5238361,fl,39,39568,blue,gray,ez rent a car inc,16050,15600,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5238366,fl,41,37981,blue,black,ez rent a car inc,16250,15800,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7c5287193,tx,19,61624,red,black,the hertz corporation,11450,10100,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2009,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvht84n195118697,pa,42,30596,red,black,capa wholesale cars inc,8375,11000,Fri Jan 23 2015 01:30:00 GMT-0800 (PST),2015-01-23,1
+2004,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a14y112104,nv,35,49127,red,black,ford country,13650,13800,Fri Jan 23 2015 03:45:00 GMT-0800 (PST),2015-01-23,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5299689,oh,46,21423,red,black,pauley motor car co preowned vehicles llc,18300,18600,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5272109,fl,4,27413,blue,black,enterprise vehicle exchange/ars/coconut creek,17550,17800,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5210778,fl,43,40988,white,gray,ars/avis budget group,17350,18000,Thu Jan 29 2015 01:00:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5263549,fl,41,20025,black,black,enterprise vehicle exchange/ars/coconut creek,18500,18700,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5239439,tn,19,40887,—,gray,exeter finance corp,13500,10100,Wed Jan 28 2015 02:30:00 GMT-0800 (PST),2015-01-28,1
+1997,FORD,MUSTANG,Base,Convertible,automatic,1falp4447vf159671,tx,19,140045,yellow,gray,automotive remarketing inc,1150,700,Tue Jan 27 2015 02:30:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6e5238330,fl,41,31836,silver,black,ez rent a car inc,17000,15800,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5238342,fl,34,35616,gray,black,ez rent a car inc,16550,15900,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5238371,fl,26,36310,white,black,ez rent a car inc,16450,15000,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7e5238336,fl,35,35636,silver,black,ez rent a car inc,16550,15800,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1e5238333,fl,36,36608,silver,black,ez rent a car inc,16400,15700,Tue Jan 27 2015 01:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0e5227081,ca,42,63593,white,black,dtg operations inc,13050,13000,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1c5270616,ca,35,59705,white,black,dtg operations inc,11650,11800,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em1c5273290,ca,28,53748,black,black,dtg operations inc,12200,11700,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4c5273316,ca,35,55573,red,black,dtg operations inc,12050,12800,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en4a5117136,ca,33,159433,gray,beige,wells fargo dealer services,8150,8600,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2010,FORD,MUSTANG,V6,Convertible,,1zvbp8en7a5168016,tx,31,101407,blue,beige,gm financial,8700,8500,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n865226592,sc,27,144194,gray,gray,east coast volkswagen,4850,5400,Wed Jan 28 2015 02:00:00 GMT-0800 (PST),2015-01-28,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84nx65226576,tx,19,121389,red,tan,ar auto sales,5375,5000,Wed Jan 28 2015 02:30:00 GMT-0800 (PST),2015-01-28,1
+2003,FORD,MUSTANG,Premium,Convertible,automatic,1fafp44473f410361,fl,28,82004,yellow,black,autonation chevrolet pembroke pines,3500,3800,Tue Jan 27 2015 10:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5293180,fl,44,23075,red,beige,enterprise vehicle exchange/ars/coconut creek,18100,19800,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5229481,ca,35,53660,black,black,dtg operations inc,14300,13700,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5208156,ca,25,49058,gray,black,sun community fcu,14850,14200,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em3e5205883,ca,36,66889,red,black,dtg operations inc,12650,12500,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5272164,ca,42,51487,blue,black,dtg operations inc,12950,12400,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4d5229785,ca,39,56372,white,black,dtg operations inc,12700,12300,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em0d5214152,ca,35,49992,red,black,dtg operations inc,13050,12801,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5272442,tn,39,55123,blue,black,dollar thrifty auto group/faao,12750,12800,Wed Jan 28 2015 02:30:00 GMT-0800 (PST),2015-01-28,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5276431,wa,49,62575,gray,black,dtag,12350,12000,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5d5229858,ca,34,57972,silver,—,dtg operations inc,12600,12300,Wed Jan 28 2015 04:30:00 GMT-0800 (PST),2015-01-28,1
+2002,FORD,MUSTANG,GT Deluxe,Convertible,automatic,1fafp45x42f128525,ga,3,135277,white,black,five star nissan,2125,3300,Fri Jan 30 2015 03:00:00 GMT-0800 (PST),2015-01-30,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5203699,ca,29,61015,black,black,dtg operations inc,12450,11800,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2d5203704,ca,28,52261,red,beige,dtg operations inc,12900,12000,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em6d5203690,ca,29,61761,red,black,dtg operations inc,12400,11500,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7c5270572,tx,39,78728,white,black,exeter finance corp,9900,11700,Tue Jan 27 2015 02:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,,1zvbp8em5d5214129,ca,37,58081,white,gray,dtg operations inc,12600,12000,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2001,FORD,MUSTANG,GT Premium,Convertible,automatic,1fafp45x31f114940,fl,37,22497,red,beige,continental auto group,4450,15000,Tue Jan 27 2015 01:30:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em7d5272159,ca,43,53060,red,black,dtg operations inc,12850,12400,Thu Jan 29 2015 04:00:00 GMT-0800 (PST),2015-01-29,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en1a5116283,fl,23,87393,—,brown,ford motor credit company llc,8825,7500,Thu Jan 29 2015 01:00:00 GMT-0800 (PST),2015-01-29,1
+2006,FORD,MUSTANG,Deluxe,Convertible,automatic,1zvft84n965103108,nc,27,57082,red,beige,hendrick chevrolet cadillac,6900,7600,Wed Jan 28 2015 06:30:00 GMT-0800 (PST),2015-01-28,1
+2005,FORD,MUSTANG,GT Deluxe,Convertible,manual,1zvht85h455176810,fl,24,70315,blue,black,nicholas financial inc/clearwater,8975,9500,Thu Jan 29 2015 07:01:00 GMT-0800 (PST),2015-01-29,1
+2003,FORD,THUNDERBIRD,Deluxe,Convertible,automatic,1fahp60a63y100805,ca,41,37752,white,black,high bid trading co inc,15000,14000,Wed Jan 28 2015 04:15:00 GMT-0800 (PST),2015-01-28,1
+1999,FORD,MUSTANG,Base,Convertible,manual,1fafp4449xf139678,ca,2,178377,red,tan,800 loan mart,1125,600,Tue Jan 27 2015 05:00:00 GMT-0800 (PST),2015-01-27,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9e5208545,az,32,63011,gray,black,dtg operations inc,13100,13200,Thu Jan 29 2015 03:30:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em5e5227125,az,29,53047,silver,black,dtg operations inc,14350,13900,Thu Jan 29 2015 03:30:00 GMT-0800 (PST),2015-01-29,1
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em0e5227128,pa,34,59946,silver,black,dtg operations inc,13500,13800,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4e5292094,fl,22,11473,blue,tan,onemain rem/advance automotive sales & financing,19550,16200,Tue Jan 27 2015 16:00:00 GMT-0800 (PST),2015-01-27,1
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em4c5253695,fl,49,16574,white,black,ford motor credit company llc,15700,16200,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1
+2010,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8en2a5122884,tx,29,102896,red,black,motorcars of south texas,8625,8600,Wed Jan 28 2015 01:15:00 GMT-0800 (PST),2015-01-28,1
+2003,FORD,MUSTANG,Premium,Convertible,,1fafp44463f440760,fl,19,149183,blue,black,courtesy toyota of brandon,2050,2200,Thu Jan 29 2015 08:20:00 GMT-0800 (PST),2015-01-29,1
+2001,FORD,MUSTANG,Deluxe,Convertible,automatic,1fafp44471f257414,fl,19,185403,blue,gray,hyundai of st augustine,1450,900,Tue Jan 27 2015 10:00:00 GMT-0800 (PST),2015-01-27,1
+2013,FORD,MUSTANG,V6,Convertible,,1zvbp8em2d5217151,pa,45,67312,—,brown,ge fleet services for itself/servicer,10750,14900,Fri Jan 30 2015 01:00:00 GMT-0800 (PST),2015-01-30,1

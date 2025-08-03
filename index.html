@@ -26,13 +26,15 @@ var svg = d3.select("#my_dataviz")
 
 //Read the data
 d3.csv(
-  "https://raw.githubusercontent.com/pcammall/CS416/952a35ff6fb577acbc38c89e076a690a1791216f/narrative_viz/car_sales_ford.csv"
+"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/c57f21c78277f9256d16d1218c26d3d45d7bdb22/car_sales_ford_converts_only.csv"
 , function(data) {
 
 	// Add X axis
 	//hardcoded because it was getting weird when i used the data
+	var x_axis_domain_max = 250000;
+	var y_axis_domain_max = 56000;
 	var x = d3.scaleLinear()
-		.domain([0, 999999])
+		.domain([0, x_axis_domain_max])
 		.nice()
 		.range([ 0, width ]);
 	var xAxis = d3.axisBottom(x);
@@ -40,12 +42,13 @@ d3.csv(
 	// Add Y axis
 	
 	var y = d3.scaleLinear()
-		.domain([0, 250000])
+		.domain([0, y_axis_domain_max])
 		.nice()
 		.range([ height, 0]);
 	var yAxis = d3.axisLeft(y);
 
 	// Color scale: give me a color name, I return a color
+	//cutting it down to converitbles only, cause it was messy otherwise
 	var color = d3.scaleOrdinal(d3.schemeCategory10)
 		.domain(['Convertible','Coupe','Hatchback','Minivan','Sedan','SUV','Truck','Van'])
 
@@ -207,8 +210,8 @@ d3.csv(
 			
 			//reuse the values when i set the axis above
 			//try not to cry because I can't figure out why I can't use the values from the data
-			x.domain([0, 999999]).nice();
-			y.domain([0, 250000]).nice();
+			x.domain([0, x_axis_domain_max]).nice();
+			y.domain([0, y_axis_domain_max]).nice();
 			
 		} else {
 			x.domain([s[0][0], s[1][0]].map(x.invert, x));
@@ -263,4 +266,10 @@ d3.csv(
 })//end csv
 
 </script>
+
+<Body>
+	<p>
+		Select an area to zoom. Double click to reset the zoom level
+	</p>
+</body>
 
