@@ -7,7 +7,7 @@
 
 <!-- Create a div where the graph will take place -->
 <div id="my_dataviz"></div>
-
+<h1>Used Convertible Car Sales June 2015</h1>
 <script>
 
 // set the dimensions and margins of the graph
@@ -26,7 +26,7 @@ var svg = d3.select("#my_dataviz")
 
 //Read the data
 d3.csv(
-	"https://raw.githubusercontent.com/pcammall/CS416/952a35ff6fb577acbc38c89e076a690a1791216f/narrative_viz/car_sales_ford.csv"
+	"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/64a53580da2a28aa2494eca4648e2bd8f9f79952/car_sales_ford_converts_jun.csv"
 , function(data) {
 
 	// Add X axis
@@ -269,7 +269,21 @@ d3.csv(
 
 <Body>
 	<p>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/index.html">Dec 2014</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jan.html">Jan 2015</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_feb.html">Feb 2015</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_mar.html">Mar 2015</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_apr.html">Apr 2015</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_may.html">May 2015</a>
+		
+	</p>
+	<p>
 		Select an area to zoom. Double click to reset the zoom level
+	</p>
+	<p>
+		The total number of sales goes up, driving down the average price. There's two clusters here, one around the 20,000 odometer mileage, and the other in the upper 50s. The first cluster could be owners selling their convertibles hoping for good summer weather to help push a premium on their cars. 
+		The second clusteer matches the previous months of December, January, and February. These are used cars getting sold just before the warranty period ends.
+		
 	</p>
 </body>
 
