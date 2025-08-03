@@ -1,0 +1,9 @@
+year,make,model,trim,body,transmission,vin,state,condition,odometer,color,interior,seller,mmr,sellingprice,saledate,sale_date,sale_month
+2014,FORD,MUSTANG,V6,Convertible,,1zvbp8em6e5285759,pa,43,14306,black,—,r m hollenshead auto sales inc,19650,20000,Fri May 29 2015 02:00:00 GMT-0700 (PDT),2015-05-29,5
+2005,FORD,THUNDERBIRD,Premium,Convertible,automatic,1fahp60a45y105018,fl,34,79898,blue,black,universal motors of miami inc,10250,11750,Tue May 19 2015 02:30:00 GMT-0700 (PDT),2015-05-19,5
+2012,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2c5259379,pa,41,31184,black,beige,r m hollenshead auto sales inc,13400,13400,Fri May 22 2015 02:00:00 GMT-0700 (PDT),2015-05-22,5
+2013,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em9d5203716,ca,38,50301,white,black,dtg operations inc,9250,9300,Wed May 27 2015 05:30:00 GMT-0700 (PDT),2015-05-27,5
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff5e5314362,qc,46,14758,silver,black,ford motor company of canada,33400,32500,Tue May 19 2015 03:00:00 GMT-0700 (PDT),2015-05-19,5
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5236493,nv,39,43079,blue,black,avis corporation,17450,16700,Fri May 22 2015 05:00:00 GMT-0700 (PDT),2015-05-22,5
+2014,FORD,MUSTANG,GT,Convertible,,1zvbp8ff1e5314391,qc,48,18136,red,black,ford motor company of canada,33200,32500,Tue May 19 2015 03:00:00 GMT-0700 (PDT),2015-05-19,5
+2014,FORD,MUSTANG,V6,Convertible,automatic,1zvbp8em2e5297505,mn,43,32822,red,black,ford motor credit company,23100,24300,Wed May 27 2015 03:00:00 GMT-0700 (PDT),2015-05-27,5

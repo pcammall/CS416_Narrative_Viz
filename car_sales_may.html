@@ -26,7 +26,7 @@ var svg = d3.select("#my_dataviz")
 
 //Read the data
 d3.csv(
-	"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/64a53580da2a28aa2494eca4648e2bd8f9f79952/car_sales_ford_converts_may.csv"
+	"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/64a53580da2a28aa2494eca4648e2bd8f9f79952/car_sales_ford_convert_may.csv"
 , function(data) {
 
 	// Add X axis
@@ -150,11 +150,12 @@ d3.csv(
 	//dont put these otherwise everything ends up in lines on the 100
 	//x.domain(d3.extent(data, function(d) {return d.odometer;})).nice();
 	//y.domain(d3.extent(data, function(d) {return d.sellingprice;})).nice();
-		
+	
 	var scatter = svg.append('g')
 		.attr("id", "scatterplot")
 		.attr("clip-path", "url(#clip)");
-		
+	
+	var opacity_style = .5;
 	scatter.selectAll(".dot")
 		.data(data)
 		.enter()
@@ -164,7 +165,7 @@ d3.csv(
       .attr("cy", function (d) { return y(d.sellingprice); } )
       .attr("r", 3)
       .style("fill", function (d) { return color(d.body) } )
-	  .style("opacity", .3)
+	  .style("opacity", opacity_style)
     .on("mouseover", highlight)
     .on("mouseleave", doNotHighlight )
 	.on("mouseover", mouseover)

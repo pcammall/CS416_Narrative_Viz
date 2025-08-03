@@ -155,6 +155,7 @@ d3.csv(
 		.attr("id", "scatterplot")
 		.attr("clip-path", "url(#clip)");
 		
+	var opacity_style = .5;
 	scatter.selectAll(".dot")
 		.data(data)
 		.enter()
@@ -164,16 +165,13 @@ d3.csv(
       .attr("cy", function (d) { return y(d.sellingprice); } )
       .attr("r", 3)
       .style("fill", function (d) { return color(d.body) } )
-	  .style("opacity", .3)
+	  .style("opacity", opacity_style)
     .on("mouseover", highlight)
     .on("mouseleave", doNotHighlight )
 	.on("mouseover", mouseover)
 	.on("mousemove", mousemove)
 	.on("mouseleave", mouseleave)
 	
-	
-
-		
 	
 	//modifying x axis
 	svg.append("g")
@@ -282,6 +280,10 @@ d3.csv(
 	</p>
 	<p>
 		Select an area to zoom. Double click to reset the zoom level
+	</p>
+	
+	<p>
+		asdfasdfsdf
 	</p>
 </body>
 
