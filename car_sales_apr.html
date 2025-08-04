@@ -172,6 +172,17 @@ d3.csv(
 	.on("mousemove", mousemove)
 	.on("mouseleave", mouseleave)
 	
+	//add the trendline cause there's so little data
+	var x_intercept = 170572;
+	var y_intercept = 26770.9;
+	scatter.append("line")
+		.style("stroke", "purple")
+		.style("stroke-width", 2)
+		.attr("x1", 0)
+		.attr("y1", y(y_intercept))
+		.attr("x2", x(x_intercept))
+		.attr("y2", height)
+	
 	
 	//modifying x axis
 	svg.append("g")
@@ -234,6 +245,10 @@ d3.csv(
 			.attr("cx", function(d) { return x(d.odometer); })
 			.attr("cy", function(d) { return y(d.sellingprice);});
 			
+		scatter.selectAll("line").transition(t)
+			.attr("y1", function(d) {return y(y_intercept);})
+			.attr("x2", function(d) {return x(x_intercept);});
+			
 	}
 
 	function update(selectedGroup) {
@@ -269,6 +284,9 @@ d3.csv(
 </script>
 
 <Body>
+	<h6>
+		Select an area to zoom. Double click to reset the zoom level
+	</h6>
 	<p>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/index.html">Dec 2014</a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jan.html">Jan 2015</a>
@@ -278,12 +296,9 @@ d3.csv(
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_may.html">May 2015</a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jun.html">Jun 2015</a>
 	</p>
-	<p>
-		Select an area to zoom. Double click to reset the zoom level
-	</p>
 	
 	<p>
-		The lack of data makes it difficult to draw conclusions about April. However, this does follow the general trend that a higher mileage on the odometer results in a lower sale price.
+		Adding the trendline shows that mileage and resale prices are related, despite the lack of data for April.
 	</p>
 </body>
 

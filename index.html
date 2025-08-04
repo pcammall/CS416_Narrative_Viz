@@ -12,7 +12,7 @@
 
 // set the dimensions and margins of the graph
 var margin = {top: 10, right: 50, bottom: 30, left: 50},
-    width = document - margin.left - margin.right,
+    width = 1100 - margin.left - margin.right,
     height = 1000 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
@@ -26,7 +26,7 @@ var svg = d3.select("#my_dataviz")
 
 //Read the data
 d3.csv(
-"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/64a53580da2a28aa2494eca4648e2bd8f9f79952/car_sales_ford_converts_dec.csv"
+"https://raw.githubusercontent.com/pcammall/CS416_Narrative_Viz/01c16a59b914f9f6f99647257c47d66dac6d42c3/car_sales_ford_converts_dec.csv"
 , function(data) {
 
 	// Add X axis
@@ -269,8 +269,11 @@ d3.csv(
 </script>
 
 <Body>
+	<h6>
+		Select an area to zoom. Double click to reset the zoom level
+	</h6>
 	<p>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/index.html">Dec 2014</a>
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/index.html"><b>Dec 2014</b></a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jan.html">Jan 2015</a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_feb.html">Feb 2015</a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_mar.html">Mar 2015</a>
@@ -278,12 +281,11 @@ d3.csv(
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_may.html">May 2015</a>
 		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jun.html">Jun 2015</a>
 	</p>
-	<p>
-		Select an area to zoom. Double click to reset the zoom level
-	</p>
 	
 	<p>
-		asdfasdfsdf
+		Used Car Sales of convertibles for <b>December 2014</b> follows the expected trend of a higher mileage on the odometer results in a lower sale price.
+		
+		There is a noticable cluster just under 60,000 of cars being sold right before warranty ends.
 	</p>
 </body>
 
