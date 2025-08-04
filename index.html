@@ -170,8 +170,9 @@ d3.csv(
     .on("mouseleave", doNotHighlight )
 	.on("mouseover", mouseover)
 	.on("mousemove", mousemove)
-	.on("mouseleave", mouseleave)
+	.on("mouseleave", mouseleave);
 	
+
 	
 	//modifying x axis
 	svg.append("g")
@@ -203,6 +204,15 @@ d3.csv(
 		.attr("class", "brush")
 		.call(brush);
 		
+	//callout the actual cluster i talk about in the text below
+	scatter.append("circle")
+			.attr("class", "annote")
+			.attr("cx", x(62521))
+			.attr("cy", y(12000))
+			.attr("r", x(10000))
+			.style("stroke", "purple")
+			.style("stroke-width", "2px")
+			.style("fill", "none");
 		
 	function brushEnded() {
 		var s = d3.event.selection;
@@ -273,19 +283,15 @@ d3.csv(
 		Select an area to zoom. Double click to reset the zoom level
 	</h6>
 	<p>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/index.html"><b>Dec 2014</b></a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jan.html">Jan 2015</a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_feb.html">Feb 2015</a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_mar.html">Mar 2015</a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_apr.html">Apr 2015</a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_may.html">May 2015</a>
-		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jun.html">Jun 2015</a>
+		
+		<a href = "https://pcammall.github.io/CS416_Narrative_Viz/car_sales_jan.html">Next Month</a>
+		
 	</p>
 	
 	<p>
-		Used Car Sales of convertibles for <b>December 2014</b> follows the expected trend of a higher mileage on the odometer results in a lower sale price.
+		Used Car Sales of convertibles for December 2014 follows the expected trend of a higher mileage on the odometer results in a lower sale price.
 		
-		There is a noticable cluster just under 60,000 of cars being sold right before warranty ends.
+		There is a noticable <span style="color:purple"><b>cluster</b></span> just under 60,000 of cars being sold right before warranty ends.
 	</p>
 </body>
 
